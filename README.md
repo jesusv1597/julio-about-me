@@ -1,7 +1,7 @@
 # about-me
 
 ### Name: Julio Junior Moreira
- ** Email: juliom121@nycstudents.net**
+### Email: juliom121@nycstudents.net**
 ### School: HSTAT
 <p> I grew up in Brooklyn, I was born on September 22 2008. I started my fighting career in 2021. Since then I have been a fighter. As of right now I am a sophmore and will graduate in 2026 </p>
 
