@@ -16,4 +16,4 @@
 <li> ALG</li>
 <li> WEIGHT TRAINING </li>
 
-Reviewed by Jesus :)
+Reviewed by Meee :)
